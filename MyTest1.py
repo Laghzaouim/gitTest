@@ -8,3 +8,5 @@ def sub():
     return a - b
 def sum():
     return a + b 
+def product():
+    return a * b
