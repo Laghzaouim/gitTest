@@ -14,3 +14,4 @@ def product():
 
 print(sub())
 print(sum())
+print(product() + sum())
