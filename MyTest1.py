@@ -9,5 +9,8 @@ def sub():
 def sum():
     return a + b 
 
+def product():
+    return a * b
+
 print(sub())
 print(sum())
